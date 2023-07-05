@@ -1,0 +1,13 @@
+body{
+    /* text-align: center; */
+    background-color: pink;
+}
+table,th,td{
+    border: 1px solid black;
+}
+.firstClass{
+    text-align: center;
+}
+#firstId{
+    background-color: brown;
+}
