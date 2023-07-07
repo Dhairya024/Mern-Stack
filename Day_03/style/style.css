@@ -32,16 +32,16 @@ body{
 }
 /* div{
     opacity: 1;
-    /* border: 2px solid red; */
+    border: 2px solid red;
     border-width: 2px;
     border-style: solid;
     border-color: royalblue;
-    /* border-radius: 50px;
+    border-radius: 50px;
     border-top-style: dotted;
     border-right-style: groove;    
-    border-bottom-style: dashed ;     */
+    border-bottom-style: dashed ;    
     border-left-width: 8px;
-    /* margin: 50px; */
+    margin: 50px;
     padding: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
